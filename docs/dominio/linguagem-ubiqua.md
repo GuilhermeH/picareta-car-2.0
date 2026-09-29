@@ -10,7 +10,7 @@ Estes são os termos do negócio. Documentos, eventos e código posteriores deve
 
 ## Catálogo e preço
 
-- **Modelo** — tipo de veículo reconhecido pela Picareta Car. Toda intenção de venda aponta para um modelo já existente no catálogo. O vendedor não cria modelos.
+- **Modelo** — tipo de veículo reconhecido pela Picareta Car. Tem identificação e nome. O nome é o que o vendedor escolhe e o comprador consulta. Toda intenção de venda aponta para um modelo já existente no catálogo. O vendedor não cria modelos.
 - **Faixa de preço** — limites mínimo e máximo aceitáveis para um modelo. É a regra comercial usada na avaliação.
 - **Preço pretendido** — valor que o vendedor pede pelo veículo na intenção de venda.
 - **Histórico de preço** — registro de cada alteração do preço pretendido: valor anterior, novo valor e data. Pertence à vida do veículo na operação, não à vitrine.
